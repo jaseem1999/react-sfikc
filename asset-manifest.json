@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-sfikc/static/css/main.6c3ed9bc.chunk.css",
-    "main.js": "/react-sfikc/static/js/main.533ff0a5.chunk.js",
-    "main.js.map": "/react-sfikc/static/js/main.533ff0a5.chunk.js.map",
-    "runtime-main.js": "/react-sfikc/static/js/runtime-main.302243ce.js",
-    "runtime-main.js.map": "/react-sfikc/static/js/runtime-main.302243ce.js.map",
+    "main.css": "/react-sfikc/static/css/main.be280ce7.chunk.css",
+    "main.js": "/react-sfikc/static/js/main.66722aa9.chunk.js",
+    "main.js.map": "/react-sfikc/static/js/main.66722aa9.chunk.js.map",
+    "runtime-main.js": "/react-sfikc/static/js/runtime-main.13d17522.js",
+    "runtime-main.js.map": "/react-sfikc/static/js/runtime-main.13d17522.js.map",
     "static/js/2.440bd76b.chunk.js": "/react-sfikc/static/js/2.440bd76b.chunk.js",
     "static/js/2.440bd76b.chunk.js.map": "/react-sfikc/static/js/2.440bd76b.chunk.js.map",
-    "static/js/3.f9c79e42.chunk.js": "/react-sfikc/static/js/3.f9c79e42.chunk.js",
-    "static/js/3.f9c79e42.chunk.js.map": "/react-sfikc/static/js/3.f9c79e42.chunk.js.map",
+    "static/js/3.b5520d7d.chunk.js": "/react-sfikc/static/js/3.b5520d7d.chunk.js",
+    "static/js/3.b5520d7d.chunk.js.map": "/react-sfikc/static/js/3.b5520d7d.chunk.js.map",
     "index.html": "/react-sfikc/index.html",
-    "static/css/main.6c3ed9bc.chunk.css.map": "/react-sfikc/static/css/main.6c3ed9bc.chunk.css.map",
+    "static/css/main.be280ce7.chunk.css.map": "/react-sfikc/static/css/main.be280ce7.chunk.css.map",
     "static/js/2.440bd76b.chunk.js.LICENSE.txt": "/react-sfikc/static/js/2.440bd76b.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/react-sfikc/static/media/unit convention2021.9aeebef0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.302243ce.js",
+    "static/js/runtime-main.13d17522.js",
     "static/js/2.440bd76b.chunk.js",
-    "static/css/main.6c3ed9bc.chunk.css",
-    "static/js/main.533ff0a5.chunk.js"
+    "static/css/main.be280ce7.chunk.css",
+    "static/js/main.66722aa9.chunk.js"
   ]
 }
