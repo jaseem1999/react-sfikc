@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-sfikc/static/css/main.be280ce7.chunk.css",
+    "main.css": "/react-sfikc/static/css/main.c9df409d.chunk.css",
     "main.js": "/react-sfikc/static/js/main.66722aa9.chunk.js",
     "main.js.map": "/react-sfikc/static/js/main.66722aa9.chunk.js.map",
     "runtime-main.js": "/react-sfikc/static/js/runtime-main.13d17522.js",
@@ -10,14 +10,14 @@
     "static/js/3.b5520d7d.chunk.js": "/react-sfikc/static/js/3.b5520d7d.chunk.js",
     "static/js/3.b5520d7d.chunk.js.map": "/react-sfikc/static/js/3.b5520d7d.chunk.js.map",
     "index.html": "/react-sfikc/index.html",
-    "static/css/main.be280ce7.chunk.css.map": "/react-sfikc/static/css/main.be280ce7.chunk.css.map",
+    "static/css/main.c9df409d.chunk.css.map": "/react-sfikc/static/css/main.c9df409d.chunk.css.map",
     "static/js/2.440bd76b.chunk.js.LICENSE.txt": "/react-sfikc/static/js/2.440bd76b.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/react-sfikc/static/media/unit convention2021.9aeebef0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.13d17522.js",
     "static/js/2.440bd76b.chunk.js",
-    "static/css/main.be280ce7.chunk.css",
+    "static/css/main.c9df409d.chunk.css",
     "static/js/main.66722aa9.chunk.js"
   ]
 }
