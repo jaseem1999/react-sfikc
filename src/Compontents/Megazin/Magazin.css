@@ -14,10 +14,13 @@
 .Magazin::-webkit-scrollbar{
     display: none;
 }
-.poster{
+.posterM{
     max-height: 200px;
     margin-right: 10px;
 
+}
+.posterM:hover{
+     transform: scale(1.2);
 }
 .name span {
     margin-left: 20px;

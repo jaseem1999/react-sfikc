@@ -23,7 +23,7 @@ function Committee() {
                 <span>Joint Secretary</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='./img/bijisha.jpg' alt="bijisha" />
+                <img className='posterC'  src='./img/bij.jpeg' alt="bijisha" />
                 <h1>Bijisha</h1>
                 <span>Joint Secretary</span>
                 </div>
@@ -38,7 +38,7 @@ function Committee() {
                 <span>Vice President</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='./img/hari ch.jpg' alt="Hari" />
+                <img className='posterC'  src='https://scontent.fcok2-1.fna.fbcdn.net/v/t1.6435-9/174550626_2937886296537947_1143207611519955889_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=fi4bAOVortcAX8urj4M&_nc_ht=scontent.fcok2-1.fna&oh=af5af025bf297f5a598cbd10079c349d&oe=60E24605' alt="Hari" />
                 <h1>Hari Karnan</h1>
                 <span>Secretariat</span>
                 </div>
@@ -68,8 +68,8 @@ function Committee() {
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://casperkruger.co.za/wp-content/uploads/2014/08/Profile-Pic-Demo.png' alt="Bijsh" />
-                 <h1>Bijish</h1>
+                    <img className='posterC' src='https://scontent.fccj1-1.fna.fbcdn.net/v/t1.6435-9/s960x960/194605406_1260581384338871_2299239357019348894_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=RHn1XMtFqMIAX9sDkxo&_nc_ht=scontent.fccj1-1.fna&tp=7&oh=acc998baddb21977f4e7815527bf2f7f&oe=60E27EF7' alt="Bijsh" />
+                 <h1>Bijeesh</h1>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
@@ -78,7 +78,7 @@ function Committee() {
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://scontent.fcok2-1.fna.fbcdn.net/v/t1.6435-9/174550626_2937886296537947_1143207611519955889_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=fi4bAOVortcAX8urj4M&_nc_ht=scontent.fcok2-1.fna&oh=af5af025bf297f5a598cbd10079c349d&oe=60E24605' alt="Hari" />
+                    <img className='posterC' src='https://scontent.fccj1-1.fna.fbcdn.net/v/t1.6435-9/169492860_895207738001202_4900647369284746285_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=174925&_nc_ohc=RfjPXiexTfYAX8JTlAR&_nc_ht=scontent.fccj1-1.fna&oh=e38faa5b44c35da5e9c5e407e9bcf5da&oe=60E3CD11' alt="Hari" />
                  <h1>Hari</h1>
                 <span>Committee</span>
                 </div>
@@ -98,12 +98,12 @@ function Committee() {
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://casperkruger.co.za/wp-content/uploads/2014/08/Profile-Pic-Demo.png' alt="Govthem" />
+                    <img className='posterC' src='https://scontent.fccj1-1.fna.fbcdn.net/v/t1.6435-9/195121757_1260577114339298_5443996742360723512_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=wSKqUEw14D0AX-tIjYg&_nc_ht=scontent.fccj1-1.fna&oh=e91eb429f51c9713731c09e7cf96aaf2&oe=60E16A59' alt="Govthem" />
                  <h1>Goutham</h1>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://casperkruger.co.za/wp-content/uploads/2014/08/Profile-Pic-Demo.png' alt="Ashif" />
+                    <img className='posterC' src='https://scontent.fccj1-1.fna.fbcdn.net/v/t1.6435-9/192938526_1260582074338802_2386486332373423877_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=CvNnLmLc3JMAX8gUkGG&_nc_ht=scontent.fccj1-1.fna&oh=621bb5c3ef7abf5c399319dba2f0eda6&oe=60E1B3B0' alt="Ashif" />
                  <h1>Ashif</h1>
                 <span>Committee</span>
                 </div>
