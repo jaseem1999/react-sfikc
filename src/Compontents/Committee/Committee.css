@@ -14,8 +14,8 @@
 .posters::-webkit-scrollbar{
     display: none;
 }
-.poster{
+.posterC{
     max-height: 200px;
     margin-right: 10px;
-
+    width: 150px;
 }
