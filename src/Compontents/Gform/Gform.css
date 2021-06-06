@@ -1,0 +1,30 @@
+.Gform{
+    margin-top:20px;
+    margin-bottom:20px;
+
+}
+.row{
+    margin-top:20px;
+}
+.button{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem ;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color:rgba(51, 51, 51, 0.5);
+    cursor: pointer;
+    margin-right: 1rem;
+    margin-top: 30ppx;
+    text-decoration: none;
+    
+}
+.button:hover {
+    color: black;
+    background-color: #e6e6e6;
+    text-decoration: none;
+}

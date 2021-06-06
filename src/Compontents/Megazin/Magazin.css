@@ -1,0 +1,24 @@
+*{
+    color: #fff;
+}
+.Row{
+    margin-left: 20px;
+    color: #fff;
+}
+.Magazin{
+    display : flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.Magazin::-webkit-scrollbar{
+    display: none;
+}
+.poster{
+    max-height: 200px;
+    margin-right: 10px;
+
+}
+.name span {
+    margin-left: 20px;
+}

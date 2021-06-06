@@ -1,0 +1,16 @@
+.cmmimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -110px;
+    left: calc(50% - 50px);
+    border: 2px solid black;;
+  }
+  .cmm h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
