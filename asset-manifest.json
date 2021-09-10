@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.575adfe0.chunk.css",
+    "main.css": "/static/css/main.db3f2e7b.chunk.css",
     "main.js": "/static/js/main.4ec6962d.chunk.js",
     "main.js.map": "/static/js/main.4ec6962d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d66736d3.js",
@@ -10,14 +10,14 @@
     "static/js/3.e2317c8e.chunk.js": "/static/js/3.e2317c8e.chunk.js",
     "static/js/3.e2317c8e.chunk.js.map": "/static/js/3.e2317c8e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.575adfe0.chunk.css.map": "/static/css/main.575adfe0.chunk.css.map",
+    "static/css/main.db3f2e7b.chunk.css.map": "/static/css/main.db3f2e7b.chunk.css.map",
     "static/js/2.2c411de6.chunk.js.LICENSE.txt": "/static/js/2.2c411de6.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/static/media/unit convention2021.9aeebef0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d66736d3.js",
     "static/js/2.2c411de6.chunk.js",
-    "static/css/main.575adfe0.chunk.css",
+    "static/css/main.db3f2e7b.chunk.css",
     "static/js/main.4ec6962d.chunk.js"
   ]
 }
