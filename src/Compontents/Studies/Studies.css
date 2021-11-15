@@ -1,10 +1,22 @@
+.circle{
+  width: 100%;
+  height: 300px;
+}
+.circle img{
+  width: 350px;
+}
+#center{
+  text-align: center;
+}
 .Row{
     margin-left: 20px;
     color: #fff;
 }
 
 .titleS {
-    margin-top: 417px;
+  margin-top: 417px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
 }
 .button{
     color: white;
@@ -34,7 +46,105 @@
     overflow-x: scroll;
     overflow-y: hidden;
     margin-top: 10px;
+    margin-bottom: -90px;
 }
 .posterss::-webkit-scrollbar{
     display: none;
 }
+#submit-form{
+  margin-left: 20px;
+}
+input[type=text], select, textarea {
+    width: 90%;
+    padding: 12px;
+    color :rgb(12, 5, 5);
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 5px;
+  }
+  .column2 {
+    float: right;
+    width: 39%;
+    margin-top: 6px;
+    padding: 0px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .wh-fbS{
+    height: 50px;
+    width: 100px;
+  }
+  @media screen and (max-width: 900px){
+  .circle img{
+    width: 350px;
+  }
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+  .circle img{
+    width: 350px;
+  }
+  
+    .column, input[type=submit] {
+      width: 90%;
+      margin-top: 0;
+    }
+    .column2{
+    float: left;
+    width: 100%; 
+    margin-top: 0;
+    }
+  }
+  @media screen and (max-width: 400px){
+    .circle img{
+    width: 250px;
+  }
+  .circle{
+    height: 200px;
+  }
+
+  }
+  @media (max-width:350px) {
+  .circle{
+    height: 200px;
+  }
+    .circle img {
+     width: 250px;
+    }
+  }
+  @media (max-width:270px) {
+    
+  }

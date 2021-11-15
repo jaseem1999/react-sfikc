@@ -1,6 +1,6 @@
 .logo-fb{
     position: fixed;
-    top: 180px;
+    top: 90px;
     right: 20px;
     height: 40px;
     width: 40px;
@@ -8,7 +8,7 @@
 }
 .wh-fb{
     position: fixed;
-    top: 235px;
+    top: 140px;
     right: 20px;
     height: 40px;
     width: 40px;
@@ -16,9 +16,98 @@
 }
 .logo-inst{
     position: fixed;
-    top: 235px;
-    left: 20px;
+    top: 190px;
+    right: 20px;
     height: 40px;
     width: 40px;
     z-index: 1;
+}
+.logo-vlog{
+    position: fixed;
+    top: 240px;
+    right: 20px;
+    height: 40px;
+    width: 40px;
+    z-index: 1;
+}
+.new{
+    position: fixed;
+    top: 70px;
+    left: 5px;
+    height: 40px;
+    width: 40px;
+    z-index: 2;
+    animation: animate 5s ease-in-out infinite;
+    animation-delay: 0s;
+}
+.new1{
+    position: fixed;
+    top: 120px;
+    left: 5px;
+    height: 40px;
+    width: 40px;
+    z-index: 2;
+    animation: animate 5s ease-in-out infinite;
+    animation-delay: -4.5s;
+}
+.newtxt a{
+    position: fixed;
+    top: 80px;
+    left: 21px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 7px;
+    width: 70%;
+    height: 34px;
+    border: 2px solid;
+    /* color: black; */
+    z-index: 1;
+    text-decoration: none;
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+    animation: animate 5s ease-in-out infinite;
+}
+.newtxt1 a{
+    position: fixed;
+    top: 130px;
+    left: 21px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 7px;
+    width: 70%;
+    height: 34px;
+    border: 2px solid;
+    /* color: black; */
+    z-index: 1;
+    text-decoration: none;
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+    animation: animate 5s ease-in-out infinite;
+     animation-delay: -4.5s;
+}
+@keyframes animate 
+{
+    0%,100%{
+        transform: translateY(5px);
+    }
+    50%{
+         transform: translateY(-5px);
+    }
+}
+.newtxt a:hover{
+    background: rgb(54, 52, 52);
+}
+.newtxt1 a:hover{
+    background: rgb(54, 52, 52);
+}
+
+.logo-fb:hover{
+   top: 85px;
+}
+.logo-inst:hover{
+    top: 185px;
+}
+.logo-vlog:hover{
+    top: 235px;
+}
+.wh-fb:hover{
+    top: 135px;
 }

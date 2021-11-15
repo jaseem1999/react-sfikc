@@ -1,16 +1,14 @@
-.Gform{
-    margin-top:20px;
-    margin-bottom:20px;
-
+.postersS1{
+    display : flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow-x: scroll;
+    overflow-y: hidden;
 }
-.Gform p{
-    color : rgb(199, 108, 108);
+.postersS1::-webkit-scrollbar{
+    display: none;
 }
-.row{
-    margin-top:20px;
-}
-.buttonB{
-    margin-left: 20px;
+.buttonS{
     color: white;
     outline: none;
     border: none;
@@ -20,14 +18,13 @@
     padding-right: 2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    background-color:rgb(255, 4, 4);
+    background-color:rgba(51, 51, 51, 0.5);
     cursor: pointer;
     margin-right: 1rem;
-    margin-top: 30ppx;
+    margin-top: 10px;
     text-decoration: none;
-    
 }
-.buttonB:hover {
+.buttonS:hover {
     color: black;
     background-color: #e6e6e6;
     text-decoration: none;

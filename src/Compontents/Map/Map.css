@@ -1,0 +1,30 @@
+
+#map-tile {
+    height: 150px;
+    width: 88%;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    position: relative;
+    border: 2px solid #3F0C1F;
+    box-shadow: 0 0 5px black;
+    overflow: hidden;
+  }
+  #map-tile:hover {
+    box-shadow: 0 1px 5px 1px #cccccc;
+  }
+  .mapSpan {
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+  }
+  .map-tile1{
+    width:100%;
+  }

@@ -40,9 +40,9 @@
         position: fixed;
         left: 17%;
         color: red;
-        font-size: 1.0em;
+        font-size: 20px;
         margin-top: 18px;
-        text-shadow: 0;
+        text-shadow: none;
         margin-bottom: 0;
         text-decoration: none;
     }
@@ -55,24 +55,43 @@
         color: red;
         font-size: 1.0em;
         margin-top: 18px;
-        text-shadow: 0;
+        text-shadow: none;
         margin-bottom: 0;
         text-decoration: none;
     }
 }
-@media (min-width:300px) and (max-width:400px) {
+@media (min-width:350px) and (max-width:400px) {
     .sfi h1 {
        position: fixed;
       left: 17%;
     color: red;
-    font-size: 10.6px;
+    font-size: 13.6px;
     margin-top: 18px;
-    text-shadow: 0;
+    text-shadow: none;
     margin-bottom: 0;
     text-decoration: none;
     }
 }
-@media (min-width: 20px) and (max-width:300px) {
+@media (min-width: 300px) and (max-width:350px) {
+    .logo-kc{
+        position: fixed;
+        left: 0px;
+    }
+    .logo-cc{
+        position: fixed;
+        right: 0px;
+    }
+    .sfi h1 {
+        position: fixed;
+        left: 13%;
+        color: red;
+        font-size: 12.6px;
+        margin-top: 18px;
+        text-shadow: none;
+        margin-bottom: 0;
+        text-decoration: none;
+    }
+}@media (min-width: 20px) and (max-width:300px) {
     .logo-kc{
         position: fixed;
         left: 0px;
@@ -87,7 +106,7 @@
         color: red;
         font-size: 10.6px;
         margin-top: 18px;
-        text-shadow: 0;
+        text-shadow: none;
         margin-bottom: 0;
         text-decoration: none;
     }

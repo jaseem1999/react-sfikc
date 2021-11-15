@@ -1,0 +1,33 @@
+
+textarea {
+    width: 90%;
+    height: 100px;
+    padding: 12px;
+    color :rgb(12, 5, 5);
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+   .container {
+    margin-top: 100px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+  }
+  .container2{
+    margin-top: 20px;
+  }
+   input[type=submit] {
+    background-color: red;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: rgb(243, 75, 75);
+  }

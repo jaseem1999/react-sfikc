@@ -1,0 +1,25 @@
+.sfi_ {
+    height: 400px;
+    width: 90%;
+    margin-left: 20px;
+}
+@media (min-width: 588px) and (max-width: 791px) {
+    .sfi_ {
+        height: 300px;
+    }
+}
+@media (min-width: 498px) and (max-width: 588px) {
+    .sfi_ {
+        height: 250px;
+    }
+}
+@media (min-width: 350px) and (max-width: 498px) {
+    .sfi_ {
+        height: 200px;
+    }
+}
+@media (min-width: 150px) and (max-width: 350px) {
+    .sfi_ {
+        height: 150px;
+    }
+}

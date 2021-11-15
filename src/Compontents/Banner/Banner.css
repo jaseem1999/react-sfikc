@@ -3,9 +3,10 @@
   width: 100%;
 }
 .oldimagtitle h1 {
+    
     text-align: center;
     font-family: 'Lora', serif;
-    color: whitesmoke;
+    color: black;
     font-size: medium;
     text-transform: uppercase;
     font-weight: bold;
@@ -72,7 +73,7 @@
     height: 400px;
     position:absolute;
     top: 45px;
-    background-image:  url('https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-9/38512056_2092655287453293_403131153730502656_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ZjACpQkef4EAX8-G6D_&_nc_oc=AQl2PWyHIVPGsWjC4__et_F7UU14d_6pJiFuf7OJOcFGSyyA5m7EfLVuONAElTh04DQ&_nc_ht=scontent-maa2-1.xx&oh=307f32ff244527b268f4bda3faadd39c&oe=60D8CB39') ;
+    background-image:  url('img/unit\ convention2021.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -176,6 +177,10 @@
           color: white;
           text-transform: uppercase;
     }
+    .oldimagtitle h1 {
+      color: #000;
+     z-index: 2 ;
+  }
 }
 
 @media (min-width: 479px) and (max-width: 768px) {

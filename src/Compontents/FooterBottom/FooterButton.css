@@ -1,0 +1,47 @@
+.FooterButtonS{
+  margin-bottom: 10px;
+  height: 200px;
+}
+.footerbutton{
+    margin-left: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+    background-color:  rgb(63, 62, 62);
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+    float: left;
+    width: 85%;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+.link{
+  margin-left: 40%;
+  margin-bottom: 20px;
+  
+}
+.footerbutton:hover {
+    background-color: transparent;
+    text-decoration: none;
+    border: 2px solid white;
+}
+ @media (min-width: 330px) and (max-width: 600px) {
+    .footerbutton {
+      float: left;
+      width: 75%; 
+    }
+    .link{
+      margin-left: 5%;
+    }
+  }
+  @media (min-width: 0px) and (max-width: 330px) {
+    .footerbutton {
+      float: left;
+      width: 75%; 
+    }
+    .link{
+      margin-left: 0%;
+    }
+  }
+ 
