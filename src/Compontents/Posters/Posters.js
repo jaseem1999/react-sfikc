@@ -8,7 +8,7 @@ function Posters() {
             <div className="Row">
                  <div className ='posters'>
                    <div className= "name">
-              <img className='poster' src='https://jaseem1999.github.io/Events-sfi/canteen.jpg' alt="poster" />
+              <img className='poster' src='./img/canteen.jpg' alt="poster" />
     
                   <span>
                    
@@ -22,14 +22,14 @@ function Posters() {
                   </span>
                 </div>
                    <div className= "name">
-              <img className='poster' src='https://jaseem1999.github.io/Events-sfi/coconutopia.jpg' alt="poster" />
+              <img className='poster' src='./img/coconutopia.jpg' alt="poster" />
     
                   <span>
                    
                   </span>
                 </div>
                    <div className= "name">
-              <img className='poster' src='https://jaseem1999.github.io/Events-sfi/kala.jpg' alt="poster" />
+              <img className='poster' src='./img/kala.jpg' alt="poster" />
     
                   <span>
                     പ്രിയരേ...
@@ -42,7 +42,7 @@ function Posters() {
                   </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/ernakkulam%20ac.jpg' alt="poster" />
+                <img className='poster'  src='./img/ernakkulam%20ac.jpg' alt="poster" />
     
                   <span>ആലുവയിൽ YOUTH CONGRESS -KSU ഗുണ്ടാ ആക്രമണം....
 
@@ -54,7 +54,7 @@ SFI ആലുവ ഏരിയ പ്രസിഡന്റ്‌ സഖാവ് 
                 </div>
                    
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/karshaka%20hykyam.jpg' alt="poster" />
+                <img className='poster'  src='./img/karshaka%20hykyam.jpg' alt="poster" />
     
                   <span>
                     "വിത്തുപാകുന്നവർ ആശവെക്കുന്നവരാണ് , വെള്ളം തേവുന്നവർ ഹൃദയത്തിലേക്ക് ചാല് കീറി ചോരകൊടുക്കുന്നവരാണ് . കറ്റമെതിക്കുന്നവർ നെന്മണി മണക്കുന്നവരാണ് . വയറിന്റെ വേവറിയുന്നവരെല്ലാം അരിവാളിന് കളപറിക്കുന്നവരാണ് . ഇത് കതിരുകാക്കുന്നവരുടെ സമരമാണ് .
@@ -64,7 +64,7 @@ SFI ആലുവ ഏരിയ പ്രസിഡന്റ്‌ സഖാവ് 
                   </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/PG%20help.jpg' alt="poster" />
+                <img className='poster'  src='./img/PG%20help.jpg' alt="poster" />
     
                   <span>
                     *SFI MESKC PG ADMISSION HELP DESK 2021*🚩<br/>
@@ -85,7 +85,7 @@ Jinsiya:+91 81389 77375<br/>
                   </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/rapakal%20cu.jpg' alt="poster" />
+                <img className='poster'  src='./img/rapakal%20cu.jpg' alt="poster" />
     
                   <span>
                     ചരിത്ര സമരത്തിന് വിജയ മധുരം.കാലിക്കറ്റ് യൂണിവേഴ്സിറ്റിയുടെ വിദ്യാർത്ഥി വിരുദ്ധ നടപടികൾക്കെതിരെ 
@@ -96,7 +96,7 @@ Awake Varsity സമരം വിജയിച്ചു.
                   </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/rapakal%20hykyam.jpg' alt="poster" />
+                <img className='poster'  src='./img/rapakal%20hykyam.jpg' alt="poster" />
     
                   <span>
                     SFI രാപ്പകൽ സമരത്തിന് ഐക്യദാർഢ്യം 
@@ -105,7 +105,7 @@ SFI MES KALLADI കോളേജ് യൂണിറ്റ് കമ്മറ്�
                   </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/20%20saythaly.jpg' alt="poster" />
+                <img className='poster'  src='./img/20%20saythaly.jpg' alt="poster" />
     
                   <span>*Sep 20*
 *സ: സൈതാലി രക്തസാക്ഷി ദിനം*
@@ -114,21 +114,21 @@ SFI MES KALLADI കോളേജ് യൂണിറ്റ് പ്രഭാത�
                 </div>
 
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/rabiya%20safi.jpg' alt="poster" />
+                <img className='poster'  src='./img/rabiya%20safi.jpg' alt="poster" />
     
                   <span>
                          </span>
                 </div>
 
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/helpdesk.jpg' alt="poster" />
+                <img className='poster'  src='./img/helpdesk.jpg' alt="poster" />
     
                   <span>
                         HELP DESK🚩 </span>
                 </div>
                    
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/membership.jpg' alt="poster" />
+                <img className='poster'  src='./img/membership.jpg' alt="poster" />
     
                   <span>
                     *സമഗ്രതയാർന്ന വിദ്യാഭ്യാസം സമരോത്സുകമായ വിദ്യാർത്ഥിത്വം*
@@ -136,7 +136,7 @@ SFI MES KALALDI കോളേജ് യൂണിറ്റ് തല മെമ്�
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/web.jpg' alt="poster" />
+                <img className='poster'  src='./img/web.jpg' alt="poster" />
     
                   <span>മുഹമ്മദ് മുസ്തഫ സ്റ്റഡി സർക്കിളിന്റെ ഭാഗമായി SFI MES കല്ലടി കോളേജ് യൂണിറ്റ് കമ്മിറ്റി നിർമ്മിച്ച  website ന്റെ ഉദ്ഘാടനം SFI ജില്ലാ പ്രസിഡന്റ് ka പ്രയാൺ നിർവഹിച്ചു 
   *SFI MES KC OFFICIAL WEB SITE*
@@ -150,32 +150,32 @@ www.sfimeskc.in
                          </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/16.jpg' alt="poster" />
+                <img className='poster'  src='./img/16.jpg' alt="poster" />
     
                   <span>
                     അനശ്വര രക്തസാക്ഷി സഖാവ് മുഹമ്മദ്‌ മുസ്തഫ രക്തസാക്ഷി ദിനാചാരണം ജില്ലാതല പരിപാടി MES കോളേജിന് മുൻപിൽ സംഘടിപ്പിച്ചു. SFI കേന്ദ്രകമ്മിറ്റി അംഗം സഖാവ് ആദർശ്. എം. സജി ഉദ്ഘാടനം ചെയ്തു സംസാരിച്ചു.
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/STUDY%20kit.jpg' alt="poster" />
+                <img className='poster'  src='./img/STUDY%20kit.jpg' alt="poster" />
     
                   <span>
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/sslcPlusTwo.jpg' alt="poster" />
+                <img className='poster'  src='./img/sslcPlusTwo.jpg' alt="poster" />
     
                   <span>
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/Help%20desk.jpg' alt="poster" />
+                <img className='poster'  src='./img/Help%20desk.jpg' alt="poster" />
     
                   <span>SFI ADMISSION HELP DESK
                          </span>
                 </div>
                     <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/avakasham.jpg' alt="poster" />
+                <img className='poster'  src='./img/avakasham.jpg' alt="poster" />
     
                   <span>
                     *അവകാശ പത്രിക മാർച്ചിന്റെ ഭാഗമായി എസ്എഫ്ഐ യൂണിറ്റ് കമ്മിറ്റി പ്രിൻസിപ്പലിന് അവകാശ പത്രിക കൈമാറി*
@@ -183,7 +183,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                          </span>
                 </div>
                  <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/hrthu.jpg' alt="poster" />
+                <img className='poster'  src='./img/hrthu.jpg' alt="poster" />
                   <span>
                     *✨️കലാലയജീവിതം കലകളിലൂടെ ഉയർത്തിപ്പിടിക്കുവാനും*
 *✨വിദ്യാർത്ഥി സുഹൃത്തുക്കളുടെ സർഗശേഷികളെ പോഷിപ്പിക്കുവാനും*
@@ -198,7 +198,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                      </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/mathrukam_committee/STUDY%20CIRCLE%20ing%20sachin.jpg' alt="poster" />
+                <img className='poster'  src='./img/STUDY%20CIRCLE%20ing%20sachin.jpg' alt="poster" />
     
                   <span>*സ മുഹമ്മദ് മുസ്തഫ സ്റ്റഡി സർക്കിളിന്റെ ഉല്‍ഘാടനം  ലോഗോ പ്രകാശനം ചെയ്തുകൊണ്ട് SFI സംസ്ഥാന സെക്രട്ടറിയും ബാലുശ്ശേരി MLA യും ആയിട്ടുള്ള അഡ്വ: KM സച്ചിൻദേവ് നിർവഹിച്ചു.*
 *സാനിദ്ധ്യം സംസഥാന സെക്രട്ടറിയേറ്റഅംഗം സ:അതുൽ *
@@ -207,7 +207,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                 </div>
                    
                   < div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/abimanue.jpg' alt="poster" />
+                <img className='poster'  src='./img/abimanue.jpg' alt="poster" />
     
                   <span>"കനലായി നിൽക്ക നീ
 ചാരമാവും വരെ
@@ -226,7 +226,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/stydy%20circle.jpg' alt="poster" />
+                <img className='poster'  src='./img/stydy%20circle.jpg' alt="poster" />
     
                   <span>*ശിശിരം ഇവിടെ തീരുകയാണ്,*
 *ഇനി വസന്തം മാത്രം*
@@ -237,7 +237,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                          </span>
                 </div>
                    <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/farmersProtest26.jpg' alt="poster" />
+                <img className='poster'  src='./img/farmersProtest26.jpg' alt="poster" />
     
                   <span>*“കാർഷിക മേഖലയെ സംരക്ഷിക്കുക,*
 *ജനാധിപത്യം സംരക്ഷിക്കുക”*
@@ -245,26 +245,26 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                          </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/mathrukam_committee/cleean%20college.jpg' alt="poster" />
+                <img className='poster'  src='./img/cleean%20college.jpg' alt="poster" />
     
                   <span>
                          </span>
                 </div>
                      <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/cmrd%20mustafa%20bus%20stop.jpg' alt="poster" />
+                <img className='poster'  src='./img/cmrd%20mustafa%20bus%20stop.jpg' alt="poster" />
     
                   <span>
                          </span>
                 </div>
                      <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/mes%20state.jpg' alt="poster" />
+                <img className='poster'  src='./img/mes%20state.jpg' alt="poster" />
     
                   <span>
                      
                         </span>
                 </div>
                      <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/fees.jpg' alt="poster" />
+                <img className='poster'  src='./img/fees.jpg' alt="poster" />
     
                   <span>
                       വിദ്യാർത്ഥികൾകിടയിൽ ഫീസിന്റെ കാര്യത്തിൽ നില നിൽക്കുന്ന ആശങ്കകൾ പരിഹരിക്കാൻ കോളേജ് അധികൃതർ  ഇടപെടണം എന്നാവശ്യപെട്ട് SFI ജില്ലാ പ്രസിഡന്റ് KA പ്രയാൺ , ജില്ലാ കമ്മിറ്റിയംഗം ഷാനിഫ് , ഏരിയ സെക്രട്ടറി മാലിക് , ഏരിയ പ്രസിഡന്റ് ഹരി , യൂണിറ്റ് സെക്രട്ടറി ഫായിസ് എന്നിവർ പ്രിൻസിപ്പലുമായി കൂടി കാഴ്ച നടത്തി.
@@ -274,7 +274,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                         </span>
                 </div>
                      <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/mobile%20challenge.jpg' alt="poster" />
+                <img className='poster'  src='./img/mobile%20challenge.jpg' alt="poster" />
     
                   <span>*സ്നേഹിതക്കൊരു കൈത്താങ്ങ്*❣️
 
@@ -285,13 +285,13 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                 </div>
                 
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/national%20black%20day.jpg' alt="poster" />
+                <img className='poster'  src='./img/national%20black%20day.jpg' alt="poster" />
     
                   <span>*മെയ് 26 ദേശീയ കരിദിനത്തിന്റ ഭാഗമായി SFI MESKC UNIT*
                         </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/farmers.jpg' alt="poster" />
+                <img className='poster'  src='./img/farmers.jpg' alt="poster" />
     
                   <span>250 ൽ അധികം മരണങ്ങൾ. തിരിച്ചു പോക്കില്ലാത്ത 180 ദിവസങ്ങൾ.🚜
                       #stand with farmers
@@ -299,13 +299,13 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                         </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/MBR.jpg' alt="poster" />
+                <img className='poster'  src='./img/MBR.jpg' alt="poster" />
     
                   <span>പതിനഞ്ചാം കേരള നിയമസഭയുടെ സ്പീക്കറായി തെരഞ്ഞെടുക്കപ്പെട്ട ശ്രീ. എം.ബി രാജേഷിന് അഭിവാദ്യങ്ങൾ 💕🚩
                         </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/lakdhweeb.jpg' alt="poster" />
+                <img className='poster'  src='./img/lakdhweeb.jpg' alt="poster" />
     
                   <span>*ശബ്‌ദിക്കുന്ന നാവുകൾ നിശബ്ദമാക്കാമെന്നത് വ്യാമോഹം മാത്രമാണ്....*
                        *ഇനിയുമുറക്കെ ഞങ്ങൾ ശബ്ദിക്കുകതന്നെ ചെയ്യും..✊🏿*
@@ -315,7 +315,7 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                 </div>
                 
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/govt.jpg' alt="poster" />
+                <img className='poster'  src='./img/govt.jpg' alt="poster" />
     
                   <span>കാലം സാക്ഷി
 ചരിത്രം സാക്ഷി
@@ -327,14 +327,14 @@ SFI എം ഇ എസ്  കല്ലടി  കോളേജ് യൂണിറ
                         </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/sachin.jpg' alt="poster" />
+                <img className='poster'  src='./img/sachin.jpg' alt="poster" />
     
                   <span>വിദ്യാർത്ഥി സമരപോരാളി ഇനി നിയമസഭയിൽ 
                         @sfimeskc🚩
                         </span>
                 </div>
                 <div className ="name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/Blood.jpg' alt="poster" />
+                <img className='poster'  src='./img/Blood.jpg' alt="poster" />
                 
                 <span>*നൽകാം ജീവന്റെ തുള്ളികൾ*
 
@@ -357,7 +357,7 @@ Comments
 </span>
                 </div>
                 <div className ="name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/cmdrf.jpg' alt="poster" />
+                <img className='poster'  src='./img/cmdrf.jpg' alt="poster" />
                 
                 <span>എസ് എഫ് ഐ മണ്ണാർക്കാട് ഏരിയ കമ്മിറ്റിയുടെ നേതൃത്വത്തിൽ മുഖ്യമന്ത്രിയുടെ ദുരിതാശ്വാസ നിധിയിലേക്ക് പണം സമാഹരിക്കുന്നു.... നമുക്കും പങ്കാളിയാവാം ..
                     GOOGLE PAY ;
@@ -370,28 +370,28 @@ Comments
                        @sfi_meskc</span>
                 </div>
                 <div className ="name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/covid%20help.jpg' alt="poster" />
+                <img className='poster'  src='./img/covid%20help.jpg' alt="poster" />
                 
                 <a  href="https://www.cowin.gov.in/home"><span>Vaccine registration</span></a>
                 </div>
                 <div className ="name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/vacine%20against%20central.jpg' alt="poster" />
+                <img className='poster'  src='./img/vacine%20against%20central.jpg' alt="poster" />
                 
                 <span>*സൗജന്യ വാക്സിൻ നിഷേധിക്കുന്ന കേന്ദ്ര സർക്കാർ നിലപാടിനെതിരെ എസ്.എഫ്.ഐ  നേതൃത്വത്തിൽ രാജ്യ വ്യാപകമായി സംഘടിപ്പിക്കുന്ന ദേശീയ പ്രക്ഷോഭത്തിൽ ഭാഗമായി*       
                 SFI MES COLLEGE UNIT</span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/LDF%20college.jpg' alt="poster" />
+                <img className='poster'  src='./img/LDF%20college.jpg' alt="poster" />
                 <span>ഉറപ്പാണ് LDF 🚩🚩🚩
                   മണ്ണാർക്കാട് നിയോജക മണ്ഡലത്തിലെ ഇടതുപക്ഷ സ്‌ഥാനാർത്ഥി കെ പി സുരേഷ്‌രാജിനെ വരവേറ്റ് 
                  എം ഇ എസ് കല്ലടി കോളേജിലെ എസ് എഫ് ഐ യൂണിറ്റ് കമ്മിറ്റി </span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/football.jpg' alt="poster" />
+                <img className='poster'  src='./img/football.jpg' alt="poster" />
                 <span>SFI എംഇഎസ് കല്ലടി കോളേജ് സംഘടിപ്പിച്ച ച്ച് ഫുട്ബോൾ ടൂർണമെൻറ് മണ്ണാർക്കാട് നിയോജകമണ്ഡലം എൽഡിഎഫ് സ്ഥാനാർത്ഥി സുരേഷ് രാജ് ഉദ്ഘാടനം ചെയ്യുന്നു</span>
                 </div>
                 <div className= "name">
-                <img className='poster'  src='https://jaseem1999.github.io/Events-sfi/food.jpg' alt="poster" />
+                <img className='poster'  src='./img/food.jpg' alt="poster" />
                 
                 <span>ഒരു പൂ വിരിയും പോലെ
                      പ്രണയിച്ചു തുടങ്ങുക,💕
