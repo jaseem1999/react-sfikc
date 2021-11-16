@@ -15,7 +15,7 @@ function Posters() {
                   </span>
                 </div>
                    <div className= "name">
-              <img className='poster' src='https://jaseem1999.github.io/Events-sfi/shyam-principal.jpg' alt="poster" />
+              <img className='poster' src="./img/shyam-principal.jpg" alt="poster" />
     
                   <span>
                    
