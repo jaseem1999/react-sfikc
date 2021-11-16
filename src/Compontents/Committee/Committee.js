@@ -38,8 +38,8 @@ function Committee() {
                 <span>Vice President</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='./img/hari.jpg' alt="Hari" />
-                <h2>Hari Karnan</h2>
+                <img className='posterC'  src='./img/shyam.jpeg' alt="Hari" />
+                <h2>Shyam</h2>
                 <span>Secretariat</span>
                 </div>
                 <div className= "name">
@@ -106,6 +106,11 @@ function Committee() {
                 <div className= "name">
                     <img className='posterC' src='./img/uday.jpg' alt="Uday" />
                  <h2>Uday</h2>
+                <span>Committee</span>
+                </div>
+                <div className= "name">
+                    <img className='posterC' src='./img/jennath.jpeg' alt="Uday" />
+                 <h2>Jennath</h2>
                 <span>Committee</span>
                 </div>
               
