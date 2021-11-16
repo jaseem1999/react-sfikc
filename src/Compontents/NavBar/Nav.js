@@ -3,7 +3,7 @@ import './Nav.css'
 function Nav() {
     return (
         <div className="Nav">
-            <img className="logo-kc" src="https://jaseem1999.github.io/mathrukam_committee/sfilogo.jpeg" alt="sfikc" />
+            <img className="logo-kc" src="./img/sfilogo.jpeg" alt="sfikc" />
                <div className="sfi">
                     <a href="http://www.sficec.org/"><h1>Student's federation of India</h1></a>
                </div>

@@ -8,12 +8,12 @@ function Committee() {
             <div className="Row">
                  <div className ='posters'>
                 <div className= "name">
-                <img className='posterC'  src='https://jaseem1999.github.io/mathrukam_committee/fays.jpg' alt="fayis" />
+                <img className='posterC'  src='./img/fays.jpg' alt="fayis" />
                   <h2>Fayis</h2>
                   <span>Secretary</span>
                 </div>
                 <div className ="name">
-                <img className='posterC'  src='https://jaseem1999.github.io/mathrukam_committee/jaseem.jpg' alt="ashiq" />
+                <img className='posterC'  src='./img/president.jpeg' alt="ashiq" />
                 <h2>Jaseem</h2>
                 <span>President</span>
                 </div>
@@ -23,12 +23,12 @@ function Committee() {
                 <span>Joint Secretary</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='https://jaseem1999.github.io/mathrukam_committee/bij.jpeg' alt="bijisha" />
+                <img className='posterC'  src='./img/bij.jpeg' alt="bijisha" />
                 <h2>Bijisha</h2>
                 <span>Joint Secretary</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='https://jaseem1999.github.io/mathrukam_committee/irshad.jpg' alt="irshad" />
+                <img className='posterC'  src='./img/irshad.jpg' alt="irshad" />
                 <h2>Irshad</h2>
                 <span>Vice President</span>
                 </div>
@@ -38,7 +38,7 @@ function Committee() {
                 <span>Vice President</span>
                 </div>
                 <div className= "name">
-                <img className='posterC'  src='https://jaseem1999.github.io/mathrukam_committee/hari.jpg' alt="Hari" />
+                <img className='posterC'  src='./img/hari.jpg' alt="Hari" />
                 <h2>Hari Karnan</h2>
                 <span>Secretariat</span>
                 </div>
@@ -64,47 +64,47 @@ function Committee() {
                 </div>
                  
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/aaa.jpeg' alt="Bijsh" />
+                    <img className='posterC' src='./img/aaa.jpeg' alt="Bijsh" />
                  <h2>Bijeesh</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/haveesh.jpg' alt="Haeesh" />
+                    <img className='posterC' src='./img/haveesh.jpg' alt="Haeesh" />
                  <h2>Haveesh</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/hari%20bba.jpg' alt="Hari" />
+                    <img className='posterC' src='./img/hari%20bba.jpg' alt="Hari" />
                  <h2>Hari</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/shab.jpeg' alt="Shabeeba" />
+                    <img className='posterC' src='./img/shab.jpeg' alt="Shabeeba" />
                  <h2>Shabeeba</h2>
                 <span>Committee</span>
                 </div>
                  <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/noor.jpeg' alt="Nurjahana" />
+                    <img className='posterC' src='./img/noor.jpeg' alt="Nurjahana" />
                  <h2>Noorjahan</h2>
                 <span>Committee</span>
                 </div>
                  <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/shibila.jpeg' alt="Shibila" />
+                    <img className='posterC' src='./img/shibila.jpeg' alt="Shibila" />
                  <h2>Shibila</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/gouthum.jpg' alt="Govthem" />
+                    <img className='posterC' src='./img/gouthum.jpg' alt="Govthem" />
                  <h2>Goutham</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/ashif.jpg' alt="Ashif" />
+                    <img className='posterC' src='./img/ashif.jpg' alt="Ashif" />
                  <h2>Ashif</h2>
                 <span>Committee</span>
                 </div>
                 <div className= "name">
-                    <img className='posterC' src='https://jaseem1999.github.io/mathrukam_committee/uday.jpg' alt="Uday" />
+                    <img className='posterC' src='./img/uday.jpg' alt="Uday" />
                  <h2>Uday</h2>
                 <span>Committee</span>
                 </div>

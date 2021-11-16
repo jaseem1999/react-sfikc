@@ -4,7 +4,7 @@ hr{
 .Footer{
     width: 100%;
     height: 600px;
-    background-image: url("https://jaseem1999.github.io/mathrukam_committee/kclogo2.png");
+    background-image: url("./img/kclogo2.png");
     background-size: cover;
     background-position: center;
 }
