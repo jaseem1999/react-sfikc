@@ -7,7 +7,58 @@ function Posters() {
              <h2>Events</h2>
             <div className="Row">
                  <div className ='posters'>
+                  <div className="name">
+                      <img className="poster" src="./img/rise-up-20.jpg" alt="poster" />
+
+                      <span>RISEup🌈<br/>
+പ്രവർത്തന ഫണ്ട്<br/>
+₹20 രൂപ CHELLENGE<br/>
+
+GOOGLE PAY:8086762052<br/>
+PHONE PAY:
+9895824107<br/>
+വിജയിപ്പിക്കുക🙌🏿</span>
+                    </div>
+
+                   <div className="name">
+                      <img className="poster" src="./img/victory-farm.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+
+                   <div className="name">
+                      <img className="poster" src="./img/sfi-pro-2.jpg" alt="poster" />
+
+                      <span>പ്രധാനപ്പെട്ട രണ്ട് ആവശ്യങ്ങൾ നാളെ 11 മണിക്ക് മീറ്റിങ് കൂടി അറിയിക്കും
+
+@sfi_meskc</span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/sfi-pro.jpg" alt="poster" />
+
+                      <span>"കോളേജിന്റെ വിദ്യാർത്ഥി വിരുദ്ധ നിലപാടുകൾ തിരുത്തുക"
+SFI MESKC
+പ്രക്ഷോപത്തിലേക്ക്✊🏿
+@sfimeskc🚩</span>
+                    </div>
+
                    <div className= "name">
+                     
+                     
+              <img className='poster' src='./img/jnucampusrss.jpg' alt="poster" />
+    
+                  <span>
+                   ജെ.എൻ.യു ക്യാമ്പസിലെ
+ABVP നരനായാട്ടിൽ
+പ്രതിഷേധിച്ചുകൊണ്ട്
+എസ്.എഫ്.ഐ MES KC ഐക്യദാർഢ്യ സദസ്സ് സംഘടിപ്പിച്ചു
+
+SFI MESKC UNIT 🚩
+                  </span>
+                </div>
+                   <div className= "name">
+                    
+                     
               <img className='poster' src='./img/canteen.jpg' alt="poster" />
     
                   <span>

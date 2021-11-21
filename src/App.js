@@ -36,8 +36,8 @@ function App() {
       <Mathrukam/>
       <Map/>
       <FooterButton/>
-      <Sfi/>
       <Vedio/>
+      <Sfi/>
       <Feedback/>
       <Footer/>
     </div>
