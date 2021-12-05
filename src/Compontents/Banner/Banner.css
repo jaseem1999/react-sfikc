@@ -63,7 +63,7 @@
     height: 400px;
     position:absolute;
     top: 45px;
-    background-image:  url('img/sfi_mes_kc_3.jpg') ;
+    background-image:  url('img/mathrukampatt.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -73,22 +73,22 @@
     height: 400px;
     position:absolute;
     top: 45px;
-    background-image:  url('img/unit\ convention2021.jpg') ;
+    background-image:  url('img/web.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   }
   .oldimag1 {
-    animation: slide1 12s linear infinite;
+    animation: slide1 5s linear infinite;
   }
   .oldimag2 {
-    animation: slide2 12s linear infinite;
+    animation: slide2 5s linear infinite;
   }
   .oldimag3 {
-    animation: slide3 12s linear infinite;
+    animation: slide3 5s linear infinite;
   }
   .oldimag4 {
-    animation: slide4 12s linear infinite;
+    animation: slide4 5s linear infinite;
   }
   @keyframes slide1 {
     0%{

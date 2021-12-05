@@ -10,7 +10,7 @@ function Social() {
             <a href="https://sfimeskc.blogspot.com/"> <img className="logo-vlog" src="./img/blog.png" alt="blog"/></a>
             <a href ="https://chat.whatsapp.com/DN6qpyrLcMbHvkLXE6RO4k"> <img className="new" src="./img/new.png" alt="new"/></a>
             <div className="newtxt">
-               <a  href="https://chat.whatsapp.com/Foyxsqi7Qyz102KbpY3Bu8"> <span>Rise up</span></a>
+               <a  href="https://chat.whatsapp.com/GqKHRwBIbY57LhLJoqJVTb"> <span>Rise up 4</span></a>
                 
                
             </div>

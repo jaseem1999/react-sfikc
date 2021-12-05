@@ -48,16 +48,16 @@
     background-size: cover;
   }
   .oldimag1C {
-    animation: slide11 12s linear infinite;
+    animation: slide11 7s linear infinite;
   }
   .oldimag2C {
-    animation: slide22 12s linear infinite;
+    animation: slide22 7s linear infinite;
   }
   .oldimag3C {
-    animation: slide33 12s linear infinite;
+    animation: slide33 7s linear infinite;
   }
   .oldimag4C {
-    animation: slide44 12s linear infinite;
+    animation: slide44 7s linear infinite;
   }
   @keyframes slide11 {
     0%{
@@ -73,7 +73,7 @@
       visibility: hidden;
     }
     100%{
-      visibility: visible;
+      visibility: hidden;
     }
   }
   @keyframes slide22 {

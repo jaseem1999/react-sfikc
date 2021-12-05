@@ -7,6 +7,42 @@ function Posters() {
              <h2>Events</h2>
             <div className="Row">
                  <div className ='posters'>
+                   <div className="name">
+                      <img className="poster" src="./img/anti ragging camp.jpg" alt="poster" />
+
+                      <span>LET ART✒️🖌️🎨<br/>
+SPEAK ATTACK🎙️<br/>
+Sfi here🚩<br/>
+#anti ragging campaign<br/>
+JOIN US:<br/>
+Sfi meskc🚩</span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/fiesta-thanks.jpg" alt="poster" />
+
+                      <span>WELKOM FIESTA വിജയിപ്പിച്ച എല്ലാ വിദ്യാർത്ഥി സുഹൃത്തുകൾക്കും നന്ദി<br/>
+SFI MATHRUKAM MES KC🚩</span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/fiesta_welkom.jpg" alt="poster" />
+
+                      <span>"Lets begin...."
+WEL_KOM<br/>
+FIESTA💃🏼🕺<br/>
+⏰2️⃣5️⃣ /NOVEMBER 2021<br/>
+#WELCOME ALL.....<br/>
+@Sfi mathrukam meskc🚩</span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/sfiprotestWin1.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/welcome1.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
                   <div className="name">
                       <img className="poster" src="./img/rise-up-20.jpg" alt="poster" />
 
