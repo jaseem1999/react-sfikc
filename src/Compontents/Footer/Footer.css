@@ -40,7 +40,24 @@ hr{
     font-size: 37px;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px rgb(246, 29, 29);
-} 
+}
+.create a{
+    text-decoration: none;
+    color: #64ffda;
+}
+.create a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.create {
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight : bold;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px white;;
+}
+
 
 @media (min-width:572px) and (max-width:900px) {
     .text{
@@ -69,6 +86,9 @@ hr{
    .innerFooter:hover{
        height: 300px;
    }
+   .create {
+        font-size: 7px;
+    }
 }
 @media (max-width: 370px){
    .text p{
@@ -83,6 +103,9 @@ hr{
    }
    .text{
         font-size: medium;
+    }
+    .create {
+        font-size: 7px;
     }
 }
 

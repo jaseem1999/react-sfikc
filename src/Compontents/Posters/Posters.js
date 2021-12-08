@@ -8,6 +8,20 @@ function Posters() {
             <div className="Row">
                  <div className ='posters'>
                    <div className="name">
+                      <img className="poster" src="./img/raggim-camp-gang-troll.jpg" alt="poster" />
+
+                      <span>"റാഗിങ്ങ് വിരുദ്ധ കലാലയത്തിനായി  കൈകോർക്കാം..🤝"
+റാഗിങ് വിരുദ്ധ കാമ്പയിൻ🌸
+sfi mes kc🚩</span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/ragging-camp.jpg" alt="poster" />
+
+                      <span>
+                        SFI MES KC ANTI RAGGING CAMPAIGN ന് തുടക്കം കുറിച്ചു അതിന്റെ ഭാഗമായി  "ഞാൻ റാഗ് ചെയ്യുകയുമില്ല ഇര ആയാൽ പരാതി നൽകുകയും ചെയ്യും " എന്ന മുദ്രാവാക്യം ഉയർത്തി പിടിച്ച് SFI MES KC ഒപ്പ് ശേഖരണം  നടത്തി..
+                      </span>
+                    </div>
+                   <div className="name">
                       <img className="poster" src="./img/anti ragging camp.jpg" alt="poster" />
 
                       <span>LET ART✒️🖌️🎨<br/>

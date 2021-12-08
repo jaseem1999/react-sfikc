@@ -9,8 +9,12 @@ function Footer() {
                <hr></hr>
                 <div className="thank" >
                 <div className="text" >Thank you for visit </div>
-                <div className="text" ><p>SFi mes kalladi college unit committee</p></div>
+                <div className="text" ><p>SFi mes kalladi college unit committee<br />
+                <span className="create"><a href="https://jaseem1999.github.io/ajk/">Created by jaseem</a></span></p></div>
                 </div>
+               
+                
+                
 
             </div>
 
