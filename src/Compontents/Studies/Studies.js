@@ -55,6 +55,7 @@ function Studies() {
                 <a href="https://jaseem1999.github.io/BA.History/" className='button'>BA.History</a>
                 <a href="https://jaseem1999.github.io/M.com/" className='button'>M.com</a>
                 <a href="https://jaseem1999.github.io/Msc.Maths/" className='button'>Msc.Mathematics</a>
+                <a href="https://jaseem1999.github.io/Msc.Physics/" className='button'>Msc.Physics</a>
                 <a href="https://jaseem1999.github.io/sfi-nss-ottapalam-/" className='button'>Study Material</a>
                 <a href="https://jaseem1999.github.io/bsc.math/" className='button'>Bsc.Mathematics</a>
                 <a href="http://sdeuoc.ac.in/?q=content/ba-english-2019-admission" className='button'>BA.English</a>

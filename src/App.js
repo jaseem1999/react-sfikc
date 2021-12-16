@@ -19,6 +19,7 @@ import Sfi from './Compontents/SFI/Sfi'
 import Footer from './Compontents/Footer/Footer'
 import Vedio from './Compontents/vedio/Vedio'
 
+
 function App() {
   
   return (
@@ -26,8 +27,9 @@ function App() {
       <Nav/>
       <Banner/>
       <Mustafa/>
-      <College/>
+      <College/> 
       <Studies/>
+      <Deprt/>
       <Deprt/>
       <Posters/>
       <Megazin/>

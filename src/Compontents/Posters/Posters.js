@@ -1,11 +1,14 @@
 import React from 'react'
+import FadeInSection from '../FadelnSection/FadelnSection'
 import './Posters.css'
 
 function Posters() {
     return (
         <div>
              <h2>Events</h2>
+             
             <div className="Row">
+              <FadeInSection>
                  <div className ='posters'>
                    <div className="name">
                       <img className="poster" src="./img/raggim-camp-gang-troll.jpg" alt="poster" />
@@ -506,7 +509,9 @@ Comments
                 
                 
             </div>
+            </FadeInSection>
             </div>
+            
         </div>
     )
 }
