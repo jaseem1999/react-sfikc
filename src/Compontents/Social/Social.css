@@ -31,7 +31,7 @@
     z-index: 1;
 }
 .new{
-    position: fixed;
+    position: absolute;
     top: 70px;
     left: 5px;
     height: 40px;
@@ -41,7 +41,7 @@
     animation-delay: 0s;
 }
 .new1{
-    position: fixed;
+    position: absolute;
     top: 120px;
     left: 5px;
     height: 40px;
@@ -51,7 +51,7 @@
     animation-delay: -4.5s;
 }
 .newtxt a{
-    position: fixed;
+    position: absolute;
     top: 80px;
     left: 21px;
     background: rgba(255, 255, 255, 0.05);
@@ -67,7 +67,7 @@
     animation: animate 5s ease-in-out infinite;
 }
 .newtxt1 a{
-    position: fixed;
+    position: absolute;
     top: 130px;
     left: 21px;
     background: rgba(255, 255, 255, 0.05);

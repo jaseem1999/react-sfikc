@@ -3,11 +3,11 @@ import './Nav.css'
 function Nav() {
     return (
         <div className="Nav">
-            <img className="logo-kc" src="./img/sfilogo.jpeg" alt="sfikc" />
+            <img className="logo-kc" src="./img/mes-sfi.png" alt="sfikc" />
                <div className="sfi">
                     <a href="http://www.sficec.org/"><h1>Student's federation of India</h1></a>
                </div>
-             <img className="logo-cc" src="./img/sfi50.jpg" alt="sficc" />
+             <img className="logo-cc" src="./img/50sfi.png" alt="sficc" />
         </div>
     )
 }

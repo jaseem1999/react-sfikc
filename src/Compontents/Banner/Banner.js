@@ -9,9 +9,10 @@ function Banner() {
            <div className="oldimagtitle">
     <h1>SFI MES KALLADI COLLEGE</h1>
   </div>
+  <div className="fade-top"></div>
     <div class="oldimag1">
       
-     
+     <div className="fade-top"></div>
      <div className="fade-bottom"></div>
       
     </div>
@@ -20,6 +21,7 @@ function Banner() {
       <div class="title">
         
       </div>
+      <div className="fade-top"></div>
       <div className="fade-bottom"></div>
     </div>
     <div class="oldimag3">
@@ -27,11 +29,12 @@ function Banner() {
       <div class="title">
       
       </div>
+      <div className="fade-top"></div>
      <div className="fade-bottom"></div>
     </div>
     <div class="oldimag4">
       
-      
+      <div className="fade-top"></div>
       <div className="fade-bottom"></div>
     </div>
             
