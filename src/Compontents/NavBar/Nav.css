@@ -24,11 +24,11 @@
     position: absolute;
     left: 9%;
     font-family: 'Lora', serif;
-    color: white;
+    color: black;
     font-size: 2em;
     text-transform: uppercase;
     font-weight: bold;
-    text-shadow: 1px 1px 1px #222;
+    text-shadow: 1px 1px 1px rgb(246, 236, 236);
     margin-top: 0;
     margin-bottom: 0;
     text-decoration: none;
@@ -39,7 +39,6 @@
     .sfi h1 {
        
         left: 17%;
-        color: white;
         font-size: 20px;
         margin-top: 18px;
         text-shadow: none;
@@ -52,7 +51,6 @@
     .sfi h1 {
        
         left: 16%;
-        color: white;
         font-size: 1.0em;
         margin-top: 18px;
         text-shadow: none;
@@ -64,7 +62,6 @@
     .sfi h1 {
        
       left: 17%;
-    color: white;
     font-size: 13.6px;
     margin-top: 18px;
     text-shadow: none;
@@ -84,7 +81,6 @@
     .sfi h1 {
        
         left: 13%;
-        color: white;
         font-size: 12.6px;
         margin-top: 18px;
         text-shadow: none;
@@ -103,7 +99,6 @@
     .sfi h1 {
       
         left: 13%;
-        color: white;
         font-size: 10.6px;
         margin-top: 18px;
         text-shadow: none;
