@@ -30,7 +30,6 @@ function App() {
       <College/> 
       <Studies/>
       <Deprt/>
-      <Deprt/>
       <Posters/>
       <Megazin/>
       <Gform/>

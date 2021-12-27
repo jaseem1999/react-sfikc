@@ -10,6 +10,44 @@ function Posters() {
             <div className="Row">
               <FadeInSection>
                  <div className ='posters'>
+                   
+                    <div className="name">
+                      <img className="poster" src="./img/teak-wondo.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/ghss-balussery.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/ct-card-msf.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/ba english.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/boxing.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/basket-ball.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/table-tennis.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   
+                   
                    <div className="name">
                       <img className="poster" src="./img/raggim-camp-gang-troll.jpg" alt="poster" />
 
