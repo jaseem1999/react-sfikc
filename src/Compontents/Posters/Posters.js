@@ -2,7 +2,11 @@ import React from 'react'
 import FadeInSection from '../FadelnSection/FadelnSection'
 import './Posters.css'
 
+
 function Posters() {
+
+  
+  
     return (
         <div>
              <h2>Events</h2>
@@ -11,6 +15,7 @@ function Posters() {
               <FadeInSection>
                  <div className ='posters'>
                    
+                    
                     <div className="name">
                       <img className="poster" src="./img/teak-wondo.jpg" alt="poster" />
 
