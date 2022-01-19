@@ -14,6 +14,61 @@ function Posters() {
             <div className="Row">
               <FadeInSection>
                  <div className ='posters'>
+                   <div className="name">
+                      <img className="poster" src="./img/logo22.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+
+                    <div className="name">
+                      <img className="poster" src="./img/logo-22-malik.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/shyam-2.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/strike22meskc.jpg" alt="poster" />
+
+                      <span>
+                        കെ.എസ് യു - യൂത്ത് കോൺഗ്രസ്സ് കാപാലികർ അരും കൊല ചെയ്ത എസ്.എഫ്.ഐ പ്രവർത്തകൻ ധീരജിന്റെ കൊലപാതകത്തിൽ പ്രതിഷേധിച്ച് SFI മണ്ണാർക്കാട്  ഏരിയ കമ്മിറ്റിക്ക് കീഴിൽ MES KALLADI COLLEGE ൽ പഠിപ്പ് മുടക്കി പ്രതിഷേധിച്ചു
+                      </span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/strike22kc.jpg" alt="poster" />
+
+                      <span>
+                        എസ്.എഫ്.ഐ പ്രവർത്തകൻ ധീരജിനെ കെ.എസ്.യു- പ്രവത്തകർ  അരുംകൊല ചെയ്തതിൽ പ്രതിഷേധിച്ച് എസ്എഫ്ഐ കല്ലടി കോളേജ് യൂണിറ്റ് പഠിപ്പ് മുടക്ക് സമരം ആഹ്വാനം ചെയ്യുന്നു..
+                      </span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/strike22.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/gov-eng-sfi.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/ksu-sfi-govt-eng.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                    <div className="name">
+                      <img className="poster" src="./img/unitlogo22.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
+                   <div className="name">
+                      <img className="poster" src="./img/roller.jpg" alt="poster" />
+
+                      <span></span>
+                    </div>
                    
                     
                     <div className="name">
