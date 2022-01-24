@@ -5,6 +5,7 @@
     height: 40px;
     width: 40px;
     z-index: 1;
+
 }
 .wh-fb{
     position: fixed;
@@ -39,6 +40,7 @@
     z-index: 2;
     animation: animate 5s ease-in-out infinite;
     animation-delay: 0s;
+
 }
 .new1{
     position: absolute;
@@ -63,7 +65,7 @@
     z-index: 1;
     text-decoration: none;
     cursor: pointer;
-    backdrop-filter: blur(5px);
+    ;
     animation: animate 5s ease-in-out infinite;
 }
 .newtxt1 a{
@@ -79,7 +81,7 @@
     z-index: 1;
     text-decoration: none;
     cursor: pointer;
-    backdrop-filter: blur(5px);
+   
     animation: animate 5s ease-in-out infinite;
      animation-delay: -4.5s;
 }
