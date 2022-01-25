@@ -21,3 +21,23 @@
     height: 150px;
     border-radius: 50%;
 }
+.arrow {
+    margin-top: 20px;
+    position: absolute;
+    right: 50px;
+    width: 100px;
+    height: 120px;
+    z-index: 1;
+    color: red;
+    cursor: pointer;
+}
+.arrowleft{
+    margin-top: 27px;
+    position: absolute;
+    left: 0px;
+    width: 120px;
+    height: 100px;
+    z-index: 1;
+    color: red;
+    cursor: pointer;
+}

@@ -1,7 +1,12 @@
 import React from 'react'
 import './Committee.css'
 
+
 function Committee() {
+   
+
+
+    
     return (
         <div>
              <h2> Committee 2021</h2>
@@ -115,9 +120,11 @@ function Committee() {
                 </div>
               
                 
-                
+             
             </div>
             </div>
+           
+            
         </div>
     )
 }
