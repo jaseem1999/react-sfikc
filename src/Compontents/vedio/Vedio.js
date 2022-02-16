@@ -28,6 +28,8 @@ SFI MES KC</p>
 <iframe className="sfi_"  src="https://www.youtube.com/embed/oujO6BEYuGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe className="sfi_" src="https://www.youtube.com/embed/XaoUwaCxplM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe className="sfi_" src="https://www.youtube.com/embed/JoFwZNAR5UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe className="sfi_"  src="https://www.youtube.com/embed/BUAJZ8W0gWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe className="sfi_"  src="https://www.youtube.com/embed/qs7wkxhO7nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>Lakshadweep camp ⛺️</h2>

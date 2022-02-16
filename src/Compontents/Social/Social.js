@@ -17,5 +17,4 @@ function Social() {
         </div>
     )
 }
-
 export default Social
