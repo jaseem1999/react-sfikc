@@ -20,6 +20,14 @@
     height: 40px;
     width: 40px;
 }
+.logo-st{
+    position: absolute;
+    top: 5px;
+    width: 30px;
+}
+#center {
+  text-align: center;
+}
 .sfi h1{
     position: absolute;
     left: 9%;
