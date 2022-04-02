@@ -83,11 +83,6 @@ function Committee() {
                  <h2>Vineeth</h2>
                 <span>Committee</span>
                 </div>
-                <div className= "name">
-                    <img className='posterC' src='./img/Shijas.jpg' alt="Shabeeba" />
-                 <h2>Shijas</h2>
-                <span>Committee</span>
-                </div>
                  <div className= "name">
                     <img className='posterC' src='./img/Shifa.jpg' alt="Nurjahana" />
                  <h2>Shifa</h2>
@@ -112,11 +107,7 @@ function Committee() {
                     <img className='posterC' src='./img/Arya.jpg' alt="Uday" />
                  <h2>Arya</h2>
                 <span>Committee</span>
-                </div>
-              
-              
-                
-             
+                </div> 
             </div>
             
             </div>
