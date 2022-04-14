@@ -14,6 +14,13 @@ function Social() {
             <div className="newtxt">
                <a  href="https://chat.whatsapp.com/GqKHRwBIbY57LhLJoqJVTb"> <span>Rise up 4</span></a>
             </div>
+            <div className= "cucet-rise-up" >
+                <img className="newRiseup" src="./img/new.png" alt="newRiseup"/>
+                <marquee className="sq1"><span className="pg1">Rise up Web page coming soon! | </span>
+                <a href="https://chat.whatsapp.com/H4fHyxfZsSk3p2CV8pmSE4"><span className="pg"> RISE UP |കേന്ദ്ര _സംസ്ഥാന സർവകശാലകളിലേകു ള്ള പിജി എൻട്രൻസ് പരീക്ഷക്ക് തയ്യാറാടുക്കുന്ന വിദ്യാർത്ഥികൾക് ജോയിൻ ചെയ്യാം</span></a>
+                </marquee>
+
+            </div>
         </div>
     )
 }

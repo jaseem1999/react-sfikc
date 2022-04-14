@@ -3,10 +3,7 @@ import './Committee.css'
 
 
 function Committee() {
-   
-
-
-    
+ 
     return (
         <div>
              <h2> Committee 2022</h2>
