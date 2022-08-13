@@ -1,10 +1,29 @@
 import React from 'react'
 import FadeInSection from '../FadelnSection/FadelnSection'
+import {useState , useEffect} from "react"
+import {db} from "../Firebase/Firebase"
+import {collection, getDocs} from 'firebase/firestore'
 import './Posters.css'
 
 
 function Posters() {
+   const [users,setUsers] = useState([]);
 
+  const usersCollectionRef = collection(db , 'Events');
+ 
+ 
+ 
+  useEffect(() =>{  
+      const getUsers = async () => {
+        const data = await getDocs(usersCollectionRef);
+        console.log(data);
+        setUsers(data.docs.map((doc)=>({...doc.data(), id : doc.id})));
+      }
+      getUsers();
+      
+
+    },[])
+    
   
   
     return (
@@ -14,6 +33,15 @@ function Posters() {
             <div className="Row">
               <FadeInSection>
                  <div className ='posters'>
+                   { users.map((obj , index) => (
+                     <div className="name">
+                     
+                      <img className="poster" src={obj.EventImg} alt="poster" />
+
+                      <span>{obj.EventDesc}</span>
+                    </div>
+                   ))}
+                   
                     <div className="name">
                      
                       <img className="poster" src="./img/pulwala.jpg" alt="poster" />
