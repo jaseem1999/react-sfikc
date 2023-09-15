@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-sfikc/static/css/main.b8a11117.css",
-    "main.js": "/react-sfikc/static/js/main.3933d85c.js",
+    "main.js": "/react-sfikc/static/js/main.d73a4efc.js",
     "static/js/787.6645c595.chunk.js": "/react-sfikc/static/js/787.6645c595.chunk.js",
     "static/media/clg-1.png": "/react-sfikc/static/media/clg-1.d506954529b9e64ea4aa.png",
     "static/media/library-1 kc.png": "/react-sfikc/static/media/library-1 kc.8dfff5a496cfe789af5e.png",
@@ -14,11 +14,11 @@
     "static/media/kclogo2.png": "/react-sfikc/static/media/kclogo2.c2ea9bd1eaa50a12ff68.png",
     "index.html": "/react-sfikc/index.html",
     "main.b8a11117.css.map": "/react-sfikc/static/css/main.b8a11117.css.map",
-    "main.3933d85c.js.map": "/react-sfikc/static/js/main.3933d85c.js.map",
+    "main.d73a4efc.js.map": "/react-sfikc/static/js/main.d73a4efc.js.map",
     "787.6645c595.chunk.js.map": "/react-sfikc/static/js/787.6645c595.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8a11117.css",
-    "static/js/main.3933d85c.js"
+    "static/js/main.d73a4efc.js"
   ]
 }
