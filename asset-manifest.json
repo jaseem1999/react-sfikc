@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bc8852c.chunk.css",
-    "main.js": "/static/js/main.bea533ff.chunk.js",
-    "main.js.map": "/static/js/main.bea533ff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc4dfdaf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc4dfdaf.js.map",
-    "static/js/2.019771e2.chunk.js": "/static/js/2.019771e2.chunk.js",
-    "static/js/2.019771e2.chunk.js.map": "/static/js/2.019771e2.chunk.js.map",
-    "static/js/3.b8794833.chunk.js": "/static/js/3.b8794833.chunk.js",
-    "static/js/3.b8794833.chunk.js.map": "/static/js/3.b8794833.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7bc8852c.chunk.css.map": "/static/css/main.7bc8852c.chunk.css.map",
-    "static/js/2.019771e2.chunk.js.LICENSE.txt": "/static/js/2.019771e2.chunk.js.LICENSE.txt",
-    "static/media/College.css": "/static/media/library-1 kc.8dfff5a4.png",
-    "static/media/Footer.css": "/static/media/kclogo2.c2ea9bd1.png",
-    "static/media/Banner.css": "/static/media/web.958ec171.jpg"
+    "main.css": "/react-sfikc/static/css/main.b8a11117.css",
+    "main.js": "/react-sfikc/static/js/main.3933d85c.js",
+    "static/js/787.6645c595.chunk.js": "/react-sfikc/static/js/787.6645c595.chunk.js",
+    "static/media/clg-1.png": "/react-sfikc/static/media/clg-1.d506954529b9e64ea4aa.png",
+    "static/media/library-1 kc.png": "/react-sfikc/static/media/library-1 kc.8dfff5a496cfe789af5e.png",
+    "static/media/sfi_mes_kc_1.png": "/react-sfikc/static/media/sfi_mes_kc_1.a73a8d3d476d65e6a6cd.png",
+    "static/media/mathrukampatt.jpg": "/react-sfikc/static/media/mathrukampatt.abb3a9732e6496c0843c.jpg",
+    "static/media/MES-kalladi-college Commerce.jpg": "/react-sfikc/static/media/MES-kalladi-college Commerce.bfe5310dba8446b4bc05.jpg",
+    "static/media/sfi_mes_kc_2.jpg": "/react-sfikc/static/media/sfi_mes_kc_2.512a2b17a0c1d6b1a2d6.jpg",
+    "static/media/MES-Kalladi-College-Mannarkkad NCC.jpg": "/react-sfikc/static/media/MES-Kalladi-College-Mannarkkad NCC.1e8e4a7f33e44de450a6.jpg",
+    "static/media/web.jpg": "/react-sfikc/static/media/web.958ec1718435516925b6.jpg",
+    "static/media/kclogo2.png": "/react-sfikc/static/media/kclogo2.c2ea9bd1eaa50a12ff68.png",
+    "index.html": "/react-sfikc/index.html",
+    "main.b8a11117.css.map": "/react-sfikc/static/css/main.b8a11117.css.map",
+    "main.3933d85c.js.map": "/react-sfikc/static/js/main.3933d85c.js.map",
+    "787.6645c595.chunk.js.map": "/react-sfikc/static/js/787.6645c595.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc4dfdaf.js",
-    "static/js/2.019771e2.chunk.js",
-    "static/css/main.7bc8852c.chunk.css",
-    "static/js/main.bea533ff.chunk.js"
+    "static/css/main.b8a11117.css",
+    "static/js/main.3933d85c.js"
   ]
 }
